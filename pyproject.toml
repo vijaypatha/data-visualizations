@@ -1,0 +1,13 @@
+[project]
+name = "data-visualizations"
+version = "0.1.0"
+description = "Your project description"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "kagglehub>=0.3.7",
+    "matplotlib>=3.10.0",
+    "numpy>=2.2.2",
+    "pandas>=2.2.3",
+    "seaborn>=0.13.2",
+    "sigstore>=3.6.1",
+]
