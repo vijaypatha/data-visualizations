@@ -1,6 +1,5 @@
 # Data Visualization with Python
 
----
 
 ## Abstract
 
